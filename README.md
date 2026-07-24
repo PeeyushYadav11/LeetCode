@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PeeyushYadav11/LeetCode/tree/master/0001-two-sum) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PeeyushYadav11/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PeeyushYadav11/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/PeeyushYadav11/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
