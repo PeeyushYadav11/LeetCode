@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PeeyushYadav11/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/PeeyushYadav11/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PeeyushYadav11/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PeeyushYadav11/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/PeeyushYadav11/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PeeyushYadav11/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/PeeyushYadav11/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/PeeyushYadav11/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/PeeyushYadav11/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
