@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PeeyushYadav11/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/PeeyushYadav11/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/PeeyushYadav11/LeetCode/tree/master/0011-container-with-most-water) |
 | [0486-predict-the-winner](https://github.com/PeeyushYadav11/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PeeyushYadav11/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PeeyushYadav11/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PeeyushYadav11/LeetCode/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PeeyushYadav11/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PeeyushYadav11/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/PeeyushYadav11/LeetCode/tree/master/0486-predict-the-winner) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/PeeyushYadav11/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
