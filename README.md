@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PeeyushYadav11/LeetCode/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/PeeyushYadav11/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PeeyushYadav11/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/PeeyushYadav11/LeetCode/tree/master/0877-stone-game) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PeeyushYadav11/LeetCode/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/PeeyushYadav11/LeetCode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/PeeyushYadav11/LeetCode/tree/master/1510-stone-game-iv) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/PeeyushYadav11/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
