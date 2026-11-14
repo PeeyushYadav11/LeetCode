@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/PeeyushYadav11/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/PeeyushYadav11/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/PeeyushYadav11/LeetCode/tree/master/0022-generate-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PeeyushYadav11/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PeeyushYadav11/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PeeyushYadav11/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PeeyushYadav11/LeetCode/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/PeeyushYadav11/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PeeyushYadav11/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/PeeyushYadav11/LeetCode/tree/master/1406-stone-game-iii) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PeeyushYadav11/LeetCode/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PeeyushYadav11/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PeeyushYadav11/LeetCode/tree/master/0002-add-two-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/PeeyushYadav11/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
