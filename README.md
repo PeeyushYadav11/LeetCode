@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/PeeyushYadav11/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/PeeyushYadav11/LeetCode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/PeeyushYadav11/LeetCode/tree/master/0067-add-binary) |
 | [0486-predict-the-winner](https://github.com/PeeyushYadav11/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PeeyushYadav11/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/PeeyushYadav11/LeetCode/tree/master/0877-stone-game) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/PeeyushYadav11/LeetCode/tree/master/0067-add-binary) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PeeyushYadav11/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PeeyushYadav11/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PeeyushYadav11/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PeeyushYadav11/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/PeeyushYadav11/LeetCode/tree/master/0067-add-binary) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PeeyushYadav11/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PeeyushYadav11/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PeeyushYadav11/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -172,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/PeeyushYadav11/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PeeyushYadav11/LeetCode/tree/master/0032-longest-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/PeeyushYadav11/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
