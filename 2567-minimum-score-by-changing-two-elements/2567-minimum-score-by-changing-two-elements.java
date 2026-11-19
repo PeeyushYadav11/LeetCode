@@ -51,6 +51,7 @@ class Solution {
         //case3:Replace max1 and max2 value by max3
         score3=max3-min1;
 
+        //finding minimum score 
         return Math.min(score1, Math.min(score2, score3));
         
         
