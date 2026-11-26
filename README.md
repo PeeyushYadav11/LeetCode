@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PeeyushYadav11/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PeeyushYadav11/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PeeyushYadav11/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3360-stone-removal-game](https://github.com/PeeyushYadav11/LeetCode/tree/master/3360-stone-removal-game) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PeeyushYadav11/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/PeeyushYadav11/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PeeyushYadav11/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PeeyushYadav11/LeetCode/tree/master/0067-add-binary) |
+| [3360-stone-removal-game](https://github.com/PeeyushYadav11/LeetCode/tree/master/3360-stone-removal-game) |
 ## Sliding Window
 |  |
 | ------- |
