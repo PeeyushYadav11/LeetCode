@@ -1,9 +1,6 @@
 class Solution {
     public boolean canAliceWin(int n) {
-        boolean win=false;
-        if(n<10){
-            win = false;
-        }
+        boolean win = false;
         int i=10;
         while(n>0 && n>=i){
             n=n-i;
